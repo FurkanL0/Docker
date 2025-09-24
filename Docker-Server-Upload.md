@@ -1,6 +1,6 @@
 # 1 ; 
 ```bash
-apt update && apt install python3-flask -y
+apt update && apt install python3-flask nano -y
 ```
 
 # 2 ; 
